@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Alejandro Diaz</h1>
-<h3 align="center">A dockworker making improvements for the sector.</h3>
-
+<h3 align="center">A dockworker making improvements using Data Science for the sector.</h3>
+<h3 align="center">Data scientist with a solid track record in port leadership and experience in workplace safety and well-being. Specialized in creating predictive models and data visualization, I use Python, Scikit-learn and TensorFlow to solve complex problems. I have achieved 87% accuracy in machine learning projects and am leading initiatives to optimize port processes. My goal is to apply my knowledge and experience in data analysis to drive strategic decision making and improve operational efficiency in various environments.</h3>
 - 📫 How to reach me **a70mico@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
